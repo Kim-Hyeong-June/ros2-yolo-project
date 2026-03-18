@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# ROS
+build/
+install/
+log/
+
+# YOLO weights
+*.pt
+*.pth
+
+# VSCode
+.vscode/
